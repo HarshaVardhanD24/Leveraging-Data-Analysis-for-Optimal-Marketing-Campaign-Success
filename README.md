@@ -1,5 +1,9 @@
 # Leveraging-Data-Analysis-for-Optimal-Marketing-Campaign-Success
+Visualization link:
 
+Dashboard & Story link:
+
+Web Integration link:https://drive.google.com/file/d/1Vfq8Y_CrUnu3Ulblmuc4fh88rI7kv7uN/view?usp=sharing
 
 Data analysis in marketing involves collecting and analyzing various types of data, such as customer demographics, purchase history, online behavior, social media interactions, and campaign performance metrics.
 
